@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Matthew Lile</title>
+    <link>https://mjlile.com/posts/</link>
+    <description>Recent content in Posts on Matthew Lile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright, Matthew Lile</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 18:02:21 -0500</lastBuildDate>
+    
+	<atom:link href="https://mjlile.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Post</title>
+      <link>https://mjlile.com/posts/test_post/</link>
+      <pubDate>Fri, 01 Jan 2021 18:02:21 -0500</pubDate>
+      
+      <guid>https://mjlile.com/posts/test_post/</guid>
+      <description>This is a test of making blog posts with Hugo.</description>
+    </item>
+    
+  </channel>
+</rss>

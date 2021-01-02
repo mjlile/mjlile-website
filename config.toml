@@ -48,7 +48,12 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/mjlile"
+url = "github.com/mjlile/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "www.linkedin.com/in/mjlile"
 
 [taxonomies]
    tag = "tags"

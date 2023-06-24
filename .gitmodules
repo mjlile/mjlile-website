@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/mjlile/mjlile.github.io.git
 	branch = master
+[submodule "themes/ink-free"]
+	path = themes/ink-free
+	url = https://github.com/chollinger93/ink-free

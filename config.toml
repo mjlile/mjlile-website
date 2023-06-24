@@ -1,7 +1,7 @@
 baseURL = "https://mjlile.com/"
 languageCode = "en-us"
 title = "Matthew Lile"
-theme = "hugo-ink"
+theme = "ink-free"
 paginate = 5
 
 copyright = "© Copyright, Matthew Lile"
@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true
 
 
 [params]
-	subtitle = "Computer science student at the University of Michigan"
+	subtitle = "Ann Arbor, MI - University of Michigan '21, programmer at Amazon"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://avatars2.githubusercontent.com/u/15596064?s=460&u=50c2e71abd5904d685f3058b35e3ad9764c3b6e6&v=4"
